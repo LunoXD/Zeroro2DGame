@@ -1,7 +1,7 @@
 
 # Zeroro2D 🍥
 
-Its **My First 2D Game** Ever Made In Godot Engine  ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+Its **My First 2D Game** Ever Made In Godot Engine (I Followed Brakeys Tutorial) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://LunoXD.github.io/Zeroro2DGame/) ⏎ ᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ ᴏɴ ʙʀᴏᴡsᴇʀ
@@ -27,9 +27,5 @@ Its **My First 2D Game** Ever Made In Godot Engine  ![Godot Engine](https://img.
 - 𝘼𝙫𝙤𝙞𝙙 𝙠𝙞𝙡𝙡 𝙯𝙤𝙣𝙚𝙨 𝙩𝙝𝙚𝙮 𝙧𝙚𝙨𝙚𝙩 𝙮𝙤𝙪𝙧 𝙜𝙖𝙢𝙚  
 - 𝘾𝙤𝙡𝙡𝙚𝙘𝙩 𝙘𝙤𝙞𝙣𝙨/𝙞𝙩𝙚𝙢𝙨 𝙩𝙤 𝙧𝙖𝙘𝙠 𝙪𝙥 𝙥𝙤𝙞𝙣𝙩𝙨
 
-
-```bash
-git clone https://github.com/lunocratic/Zeroro2DGame.git
-cd Zeroro2DGame
 
 
